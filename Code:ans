@@ -1,7 +1,7 @@
-//Javac编译
+# Javac编译
 
 javac "$(FULL_CURRENT_PATH)"
 
-//Java执行
+# Java执行
 
 java -cp "$(CURRENT_DIRECTORY)" "$(NAME_PART)"
